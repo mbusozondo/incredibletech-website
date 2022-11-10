@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+body {
+    padding-top: 1px;
+    padding-bottom: 20px;
+    background-image: url('image/kwanele.webp');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
